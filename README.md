@@ -2,6 +2,8 @@
 
 A hardcore survival mechanics and fluid logistics mod designed specifically for deep underground mining, exploration, and cave management. This mod introduces an immersive visual interface, tactical item limits, and realistic environmental rules to enhance the survival experience.
 
+![Hydration Mod Preview](screenshot.png)
+
 ## Core Features
 
 * **Visual Status HUD:** Introduces a beautiful row of **10 pixel-art water drop icons** (20-point native statbar system) locked parallel to your health hearts, accompanied by a precise decimal tracker (e.g., `Hydration: 20.0 / 20.0`).
